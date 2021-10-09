@@ -41,7 +41,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/farhan-dqz/JulieMwol
+$ git clone https://github.com/gmananthu3/JulieMwol
 $ cd JulieMwol
 $ npm i
 $ node julie.js
